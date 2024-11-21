@@ -1,0 +1,1 @@
+variancia = np.var(df_dados)
